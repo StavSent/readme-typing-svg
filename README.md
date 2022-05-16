@@ -36,6 +36,8 @@ Here you can easily customize your Typing SVG with a live preview.
 
 ## 🚀 Example usage
 
+
+
 Below are links to profiles where you can see Readme Typing SVGs in action!
 
 [![Jonah Lawrence](https://github.com/DenverCoder1.png?size=60)](https://github.com/DenverCoder1)
